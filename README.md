@@ -29,7 +29,7 @@ This dataset includes the following languages:
 
 ## Participation
 
-Participants are welcome to participate in task 1, 2 or 3 or part of it.
+Participants may participate in all three subtasks or any one or two.
 
 ## Dataset Schema
 
