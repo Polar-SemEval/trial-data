@@ -17,15 +17,17 @@ This dataset includes the following languages:
 - ara (Arabic)
 - deu (German)
 - eng (English)
-- urd (Urdu)
-- spa (Spanish)
-- hau (Hausa)
 - fas (Persian)
-- tur (Turkish)
-- zho (Chinese)
+- hau (Hausa)
+- hin (Hindi)
 - ita (Italian)
+- mya (Myanmar)
 - nep (Nepali)
 - rus (Russian)
+- spa (Spanish)
+- tur (Turkish)
+- urd (Urdu)
+- zho (Chinese)
 
 ## Participation
 
