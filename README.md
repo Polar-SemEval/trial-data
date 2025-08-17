@@ -28,6 +28,7 @@ This dataset includes the following languages:
 - tur (Turkish)
 - urd (Urdu)
 - zho (Chinese)
+- tel (Telugu)
 
 ## Participation
 
