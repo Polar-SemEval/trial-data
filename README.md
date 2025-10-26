@@ -39,20 +39,20 @@ Participants may participate in all three subtasks or any one or two.
 
 The CSV file contains the following columns:
 
-| Column | Description | Task |
+| Column | Description | Subtask |
 |--------|-------------|------|
 | `Text` | The original text sample | - |
 | `Lang` | Language code | - |
-| `Polarization` | Boolean indicating if content is polarizing (TRUE/FALSE) | **Task 1** |
-| `Gender/Sexual` | Binary flag (0/1) for gender/sexual polarization target | **Task 2** |
-| `Political` | Binary flag (0/1) for political polarization target | **Task 2** |
-| `Religious` | Binary flag (0/1) for religious polarization target | **Task 2** |
-| `Racial/Ethnic` | Binary flag (0/1) for racial/ethnic polarization target | **Task 2** |
-| `Other` | Binary flag (0/1) for other polarization targets | **Task 2** |
-| `Vilification` | Binary flag (0/1) for vilification expression | **Task 3** |
-| `Extreme Language` | Binary flag (0/1) for extreme language expression | **Task 3** |
-| `Stereotype` | Binary flag (0/1) for stereotyping expression | **Task 3** |
-| `Invalidation` | Binary flag (0/1) for invalidation expression | **Task 3** |
-| `Lack of Empathy` | Binary flag (0/1) for lack of empathy expression | **Task 3** |
-| `Dehumanization` | Binary flag (0/1) for dehumanization expression | **Task 3** |
+| `Polarization` | Boolean indicating if content is polarizing (TRUE/FALSE) | **Subtask 1** |
+| `Gender/Sexual` | Binary flag (0/1) for gender/sexual polarization target | **Subtask 2** |
+| `Political` | Binary flag (0/1) for political polarization target | **Subtask 2** |
+| `Religious` | Binary flag (0/1) for religious polarization target | **Subtask 2** |
+| `Racial/Ethnic` | Binary flag (0/1) for racial/ethnic polarization target | **Subtask 2** |
+| `Other` | Binary flag (0/1) for other polarization targets | **Subtask 2** |
+| `Vilification` | Binary flag (0/1) for vilification expression | **Subtask 3** |
+| `Extreme Language` | Binary flag (0/1) for extreme language expression | **Subtask 3** |
+| `Stereotype` | Binary flag (0/1) for stereotyping expression | **Subtask 3** |
+| `Invalidation` | Binary flag (0/1) for invalidation expression | **Subtask 3** |
+| `Lack of Empathy` | Binary flag (0/1) for lack of empathy expression | **Subtask 3** |
+| `Dehumanization` | Binary flag (0/1) for dehumanization expression | **Subtask 3** |
 | `ID` | Unique identifier for each text sample | - |
